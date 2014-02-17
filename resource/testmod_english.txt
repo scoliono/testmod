@@ -1,0 +1,8 @@
+lang
+{
+	Language "English"
+	Tokens
+	{
+		testmod_Chapter1_Title	"Hello world"
+	}
+}
