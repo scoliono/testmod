@@ -3,8 +3,9 @@ testmod
 
 A test mod for Half-Life 2 using the Source SDK 2007.
 
+-
 
-*Installation*
+**Installation**
 
 1. Download this repository as a ZIP file.
 
